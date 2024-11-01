@@ -1,6 +1,4 @@
-# Hi.
-I'm Mini. I'm just a 17 year old random Turkish guy who knows very little of coding. (Yet I somehow manage to do stuff lol)
-(Might probably change this later on)
+Someone.
 
 
 <!---
